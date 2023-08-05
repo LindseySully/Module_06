@@ -1,3 +1,18 @@
+# Module Overview
+
+The following Module provided a review of web scraping and natural language processing. The following python libraries were leveraged:
+* beautifulsoup4 - read and modify the DOM of a webpage - XML parser
+* requests - sends a request to the HTTP site of our choosing
+* html5lib (optional parser)
+* counter - counting our occurances of our tokens/lemmas
+* spaCy - for natural language processing
+* spacytextblob
+* matplotlib.pyplot -  for histogram plotting
+* pickle - for writing and reading an article
+
+### About this Module
+This module explored requesting, parsing, writing, and reading an HTML article. Then taking the article and using natural language processing to understand the frequency of common words throughout the article and their frequency of occurance. 
+
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Complete the tasks in the Python Notebook in this repository.
